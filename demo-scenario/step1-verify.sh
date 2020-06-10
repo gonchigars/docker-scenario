@@ -1,10 +1,10 @@
 docker version
-$op=$(docker ps | grep ubuntu)
-echo "op = $op"
+op=$(docker ps | grep ubuntu)
+echo "$op"
 if [ "$op" == "" ]; then
   echo "Container is stop"
   echo "Checking stopped containers"
-  $op=$(docker ps -a | grep ubuntu)
+  op=$(docker ps -a | grep ubuntu)
   if [ "$op" != "" ]; then
     echo "Container exists"
     echo "done"
