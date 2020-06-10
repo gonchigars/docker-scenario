@@ -1,3 +1,4 @@
+docker version
 $op=$(docker ps | grep ubuntu)
 echo "op = $op"
 if [ "$op" == "" ]; then
