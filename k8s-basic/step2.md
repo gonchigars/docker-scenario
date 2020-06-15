@@ -10,6 +10,10 @@ Answer the below questions based on the **test-deployment**
 >>Q2: Enter any text with 36<<
 =~= 36
 
+>>Q4: Single Choice <<
+(*) Correct
+( ) Incorrect
+
 >>Q3: Multiple Choice <<
 [*] Correct
 [*] Correct
