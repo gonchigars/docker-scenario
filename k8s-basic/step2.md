@@ -22,3 +22,6 @@ Answer the below questions based on the **test-deployment**
 >>Q4: Single Choice <<
 (*) Correct
 ( ) Incorrect
+
+>>Q1: Enter "3"<<
+=== 3
