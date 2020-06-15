@@ -5,3 +5,5 @@ then
   if [ "$img" == "nginx:latest" ]
   then
     echo "done"
+  fi
+fi
