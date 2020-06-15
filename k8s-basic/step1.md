@@ -1,10 +1,12 @@
-Docker containers can be spinned up using a simple command `docker run` 
-The following command can be executed to run a ubuntu container 
-`docker run -it ubuntu bash`{{execute}}
+Kubernetes deployments can be created using `kubectl run <deployment-name> <other-tags>` 
 
 ## Task
 
-Run the ubuntu container.
+Create a deployment with following configurations
+<ol>
+  <li>Name: <b>hello-world</b></li>
+  <li>Image: <b>nginx:latest</b></li>
+</ol>
 
 You can exit the container terminal by executing `exit` command.
 Perform the same and we can move towards next section.
