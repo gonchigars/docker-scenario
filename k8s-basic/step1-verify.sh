@@ -1,3 +1,5 @@
+cat /root/test
+
 actName="hello-world"
 actLabels="app=frontend"
 actImg="nginx:latest"
