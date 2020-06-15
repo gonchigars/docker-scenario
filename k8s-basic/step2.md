@@ -15,8 +15,6 @@ Answer the below questions based on the **test-deployment**
 [*] Correct
 [ ] Incorrect
 
-Q4 is a single choice where users must select the correct answer.
-
 >>Q4: Single Choice <<
 (*) Correct
 ( ) Incorrect
