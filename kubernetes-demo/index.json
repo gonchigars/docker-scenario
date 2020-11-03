@@ -2,13 +2,18 @@
 {
   "title": "Kubernetes",
   "description": "Kubernetes Basics",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Deploying Nginx",
         "text": "step1.md"
       }
     ],
+    "intro": {
+      "text": "intro.md"
+    },
     "finish": {
       "text": "finish.md"
     }
