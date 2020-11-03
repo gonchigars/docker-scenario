@@ -1,4 +1,4 @@
-Kubernetes deployments can be created using `kubectl run <deployment-name> <other-tags>` 
+Kubernetes deployments can be created using `kubectl create deployment <deployment-name> <other-tags>` 
 
 ## Task
 
