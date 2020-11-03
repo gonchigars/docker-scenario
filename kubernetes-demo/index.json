@@ -9,7 +9,8 @@
       {
         "title": "Deploying Nginx",
         "text": "step1.md",
-        "verify": "step1-verify.sh"
+        "verify": "step1-verify.sh",
+        "answer": "step1-answer.md"
       }
     ],
     "intro": {
