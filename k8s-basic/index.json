@@ -6,14 +6,12 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md",
-        "verify": "step1-verify.sh"
+        "title": "Quiz",
+        "text": "step2.md"
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "code": "start.sh"
+      "text": "intro.md"
     },
     "finish": {
       "text": "finish.md"
